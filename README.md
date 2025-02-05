@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+ Computer Engineer | Full-Stack Developer | Tech Enthusiast
 </p>
 
 <div align="center">
