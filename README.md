@@ -21,18 +21,8 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.kenangain.com/" target="_blank">
+        <a href="">
           <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
         </a>
       </td>
       <td align="center">
@@ -48,18 +38,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://twitch.tv/knightgamer2910" target="_blank">
-          <img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-        </a>
-      </td>
-      <td align="center">
         <a href="https://x.com/gain_kenan" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
-          <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
         </a>
       </td>
     </tr>
