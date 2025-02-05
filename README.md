@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 ![Your Banner Alt Text](https://raw.githubusercontent.com/tanvir-pr/tanvir-pr/main/banner.png)
+<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/banner.png" />
 
 
 
