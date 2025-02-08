@@ -55,47 +55,49 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 <div align="center">
-  <h2>🌐 Connect with Me</h2>
-  <p>Discover my work and connect on these platforms!</p>
+<h2 align="center">Connect with me</h2>
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="">
-          <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
-        </a>
-      </td>
-      <td align="center">
-        <a href="[https://www.linkedin.com/in/kenan-gain-33048518a/](https://www.linkedin.com/in/tanvir-0-hasan-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="[https://facebook.com/kenan.gain](https://www.facebook.com/share/18cM6YuhVB/)" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-        </a>
-      </td>
-      <td align="center">
-        <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-        </a>
-      </td>
-      <td align="center">
-        <a href=""_blank">
-          <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-  </table>
+<br clear="both">
+
+<div align="center">
+  <a href="https://codepen.io/aznahid" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/codepen/ffffff" height="40" alt="CodePen logo" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://twitter.com/xahid_420" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=jlpBF1fJe9fs&format=png&color=ffffff" height="40" alt="Twitter logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://linkedin.com/in/ajnahid" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="40" alt="LinkedIn logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://instagram.com/ab.nahid_ff" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/instagram/FF0069" height="40" alt="Instagram logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://dribbble.com/aznahid" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/dribbble/EA4C89" height="40" alt="Dribbble logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.behance.net/gamingnahid" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/behance/1769FF" height="40" alt="Behance logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://medium.com/@aznahid507" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/medium/ffffff" height="40" alt="Medium logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.youtube.com/c/abnahid5" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" alt="YouTube logo" />
+  </a>
 </div>
 
 
