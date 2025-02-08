@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<img src="[https://raw.githubusercontent.com/tanvir-pr/tanvir-pr/main/banner.png](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)" />
+<img src="[https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif]" />
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 
