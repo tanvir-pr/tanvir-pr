@@ -60,42 +60,42 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <br clear="both">
 
 <div align="center">
-  <a href="https://codepen.io/aznahid" target="_blank" style="text-decoration: none;">
+  <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/codepen/ffffff" height="40" alt="CodePen logo" />
   </a>
   <img width="12" />
   
-  <a href="https://twitter.com/xahid_420" target="_blank" style="text-decoration: none;">
+  <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=jlpBF1fJe9fs&format=png&color=ffffff" height="40" alt="Twitter logo" />
   </a>
   <img width="12" />
 
-  <a href="https://linkedin.com/in/ajnahid" target="_blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/tanvir-0-pr" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
 
-  <a href="https://instagram.com/ab.nahid_ff" target="_blank" style="text-decoration: none;">
+  <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/instagram/FF0069" height="40" alt="Instagram logo" />
   </a>
   <img width="12" />
 
-  <a href="https://dribbble.com/aznahid" target="_blank" style="text-decoration: none;">
+  <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/dribbble/EA4C89" height="40" alt="Dribbble logo" />
   </a>
   <img width="12" />
 
-  <a href="https://www.behance.net/gamingnahid" target="_blank" style="text-decoration: none;">
+  <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/behance/1769FF" height="40" alt="Behance logo" />
   </a>
   <img width="12" />
 
-  <a href="https://medium.com/@aznahid507" target="_blank" style="text-decoration: none;">
+  <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/medium/ffffff" height="40" alt="Medium logo" />
   </a>
   <img width="12" />
 
-  <a href="https://www.youtube.com/c/abnahid5" target="_blank" style="text-decoration: none;">
+  <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" alt="YouTube logo" />
   </a>
 </div>
