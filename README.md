@@ -65,58 +65,46 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <h3 align="center">JavaScript / TypeScript ecosystem</h3>
 
-<p align="center"><strong>Frontend</strong></p>
-
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
+      <td align="center" valign="top" style="border: none; padding: 12px;">
+        <strong>Frontend</strong>
+        <br><br>
         <a href="https://nextjs.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
         </a>
-        <br>Next.js
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
         </a>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/>
         </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://www.typescriptlang.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript"/>
         </a>
-        <br>TypeScript
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
           <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
         </a>
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
           <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
         </a>
-        <br>HTML
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
           <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
         </a>
-        <br>CSS
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://jquery.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
         </a>
-        <br>jQuery
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 12px;">
+        <strong>Backend</strong>
+        <br><br>
+        <a href="https://nodejs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
+        </a>
+        <a href="https://expressjs.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -124,22 +112,20 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <br>
 
-<p align="center"><strong>Backend</strong></p>
+<h3 align="center">Python ecosystem</h3>
 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <a href="https://nodejs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
+      <td align="center" style="border: none; padding: 12px;">
+        <strong>Backend</strong>
+        <br><br>
+        <a href="https://www.djangoproject.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/>
         </a>
-        <br>Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://expressjs.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
+        <a href="https://flask.palletsprojects.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
         </a>
-        <br>Express
       </td>
     </tr>
   </tbody>
@@ -149,22 +135,18 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <h3 align="center">PHP ecosystem</h3>
 
-<p align="center"><strong>Backend</strong></p>
-
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
+      <td align="center" style="border: none; padding: 12px;">
+        <strong>Backend</strong>
+        <br><br>
         <a href="https://www.php.net/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/>
         </a>
-        <br>PHP
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://laravel.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel"/>
         </a>
-        <br>Laravel
       </td>
     </tr>
   </tbody>
@@ -174,22 +156,18 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <h3 align="center">Java ecosystem</h3>
 
-<p align="center"><strong>Backend</strong></p>
-
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
+      <td align="center" style="border: none; padding: 12px;">
+        <strong>Backend</strong>
+        <br><br>
         <a href="https://www.java.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
         </a>
-        <br>Java
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://spring.io/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring"/>
         </a>
-        <br>Spring
       </td>
     </tr>
   </tbody>
@@ -199,22 +177,18 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <h3 align="center">C# ecosystem</h3>
 
-<p align="center"><strong>Backend</strong></p>
-
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
+      <td align="center" style="border: none; padding: 12px;">
+        <strong>Backend</strong>
+        <br><br>
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/>
         </a>
-        <br>C#
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://dotnet.microsoft.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/>
         </a>
-        <br>.NET
       </td>
     </tr>
   </tbody>
