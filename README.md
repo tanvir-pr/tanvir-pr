@@ -63,7 +63,7 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <h2 align="center">1. Web Development</h2>
 
-<h3 align="center">JavaScript / TypeScript ecosystem</h3>
+<h3 align="center">JavaScript / TypeScript</h3>
 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
@@ -112,21 +112,21 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <br>
 
+<h3 align="center">Framework</h3>
+
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <h3 align="center">Python ecosystem</h3>
       <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
         <tbody>
           <tr>
             <td align="center" style="border: none; padding: 12px;">
+              <small>Python</small>
+              <br>
               <strong>Backend</strong>
               <br><br>
-              <a href="https://www.djangoproject.com/" style="color: white;">
-                <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/>
-              </a>
-              <a href="https://flask.palletsprojects.com/" style="color: white;">
-                <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
+              <a href="https://fastapi.tiangolo.com/" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/>
               </a>
             </td>
           </tr>
@@ -134,11 +134,12 @@ Computer Engineering student and Full-Stack Developer focused on building modern
       </table>
     </td>
     <td align="center" valign="top" width="50%">
-      <h3 align="center">PHP ecosystem</h3>
       <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
         <tbody>
           <tr>
             <td align="center" style="border: none; padding: 12px;">
+              <small>PHP</small>
+              <br>
               <strong>Backend</strong>
               <br><br>
               <a href="https://www.php.net/" style="color: white;">
@@ -155,11 +156,12 @@ Computer Engineering student and Full-Stack Developer focused on building modern
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <h3 align="center">Java ecosystem</h3>
       <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
         <tbody>
           <tr>
             <td align="center" style="border: none; padding: 12px;">
+              <small>Java</small>
+              <br>
               <strong>Backend</strong>
               <br><br>
               <a href="https://www.java.com/" style="color: white;">
@@ -174,11 +176,12 @@ Computer Engineering student and Full-Stack Developer focused on building modern
       </table>
     </td>
     <td align="center" valign="top" width="50%">
-      <h3 align="center">C# ecosystem</h3>
       <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
         <tbody>
           <tr>
             <td align="center" style="border: none; padding: 12px;">
+              <small>C#</small>
+              <br>
               <strong>Backend</strong>
               <br><br>
               <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="color: white;">
@@ -225,6 +228,65 @@ Computer Engineering student and Full-Stack Developer focused on building modern
           <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis"/>
         </a>
         <br>Redis
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h3 align="center">ORM</h3>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://www.prisma.io/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=prisma" width="50" height="50" alt="Prisma"/>
+        </a>
+        <br>Prisma
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://sequelize.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=sequelize" width="50" height="50" alt="Sequelize"/>
+        </a>
+        <br>Sequelize
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://mongoosejs.com/" style="color: white;">
+          <img src="https://cdn.simpleicons.org/mongoose" width="50" height="50" alt="Mongoose"/>
+        </a>
+        <br>Mongoose
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.sqlalchemy.org/" style="color: white;">
+          <img src="https://cdn.simpleicons.org/sqlalchemy" width="50" height="50" alt="SQLAlchemy"/>
+        </a>
+        <br>SQLAlchemy
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://docs.djangoproject.com/en/stable/topics/db/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django ORM"/>
+        </a>
+        <br>Django ORM
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://laravel.com/docs/eloquent" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Eloquent"/>
+        </a>
+        <br>Eloquent
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://hibernate.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=hibernate" width="50" height="50" alt="Hibernate"/>
+        </a>
+        <br>Hibernate
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://learn.microsoft.com/en-us/ef/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt="Entity Framework"/>
+        </a>
+        <br>Entity Framework
       </td>
     </tr>
   </tbody>
