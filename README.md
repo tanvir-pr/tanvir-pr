@@ -112,86 +112,87 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <br>
 
-<h3 align="center">Python ecosystem</h3>
-
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none; padding: 12px;">
-        <strong>Backend</strong>
-        <br><br>
-        <a href="https://www.djangoproject.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/>
-        </a>
-        <a href="https://flask.palletsprojects.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<h3 align="center">PHP ecosystem</h3>
-
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none; padding: 12px;">
-        <strong>Backend</strong>
-        <br><br>
-        <a href="https://www.php.net/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/>
-        </a>
-        <a href="https://laravel.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<h3 align="center">Java ecosystem</h3>
-
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none; padding: 12px;">
-        <strong>Backend</strong>
-        <br><br>
-        <a href="https://www.java.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-        </a>
-        <a href="https://spring.io/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<h3 align="center">C# ecosystem</h3>
-
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none; padding: 12px;">
-        <strong>Backend</strong>
-        <br><br>
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/>
-        </a>
-        <a href="https://dotnet.microsoft.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3 align="center">Python ecosystem</h3>
+      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
+        <tbody>
+          <tr>
+            <td align="center" style="border: none; padding: 12px;">
+              <strong>Backend</strong>
+              <br><br>
+              <a href="https://www.djangoproject.com/" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/>
+              </a>
+              <a href="https://flask.palletsprojects.com/" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3 align="center">PHP ecosystem</h3>
+      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
+        <tbody>
+          <tr>
+            <td align="center" style="border: none; padding: 12px;">
+              <strong>Backend</strong>
+              <br><br>
+              <a href="https://www.php.net/" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/>
+              </a>
+              <a href="https://laravel.com/" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel"/>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3 align="center">Java ecosystem</h3>
+      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
+        <tbody>
+          <tr>
+            <td align="center" style="border: none; padding: 12px;">
+              <strong>Backend</strong>
+              <br><br>
+              <a href="https://www.java.com/" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
+              </a>
+              <a href="https://spring.io/" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring"/>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3 align="center">C# ecosystem</h3>
+      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
+        <tbody>
+          <tr>
+            <td align="center" style="border: none; padding: 12px;">
+              <strong>Backend</strong>
+              <br><br>
+              <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/>
+              </a>
+              <a href="https://dotnet.microsoft.com/" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
 </table>
 
 <br>
