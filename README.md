@@ -26,29 +26,50 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <h3 align="center">Git Stats</h3>
 
-<img src="https://streak-stats.demolab.com/?user=tanvir-pr&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tanvir-pr&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<br>
-
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-pr&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-pr&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanvir-pr&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanvir-pr&theme=highcontrast&utcOffset=6" alt="Productive Time" />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanvir-pr&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanvir-pr&theme=highcontrast" alt="Profile Stats Summary" />
     </td>
   </tr>
 </table>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvir-pr&hide_border=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=highcontrast&border_radius=10" alt="Tanvir GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanvir-pr&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Tanvir's GitHub stats">
+<p align="center">
+  <img src="https://github-activity-chart.vercel.app/graph?username=tanvir-pr&theme=high-contrast&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ffff/tanvir-pr" alt="GitHub Contribution Calendar" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanvir-pr&theme=highcontrast" alt="Repos Per Language" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanvir-pr&theme=highcontrast" alt="Most Commit Language" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvir-pr&theme=highcontrast" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="center">Connect with me</h2>
 
@@ -254,25 +275,25 @@ Computer Engineering student and Full-Stack Developer focused on building modern
       </td>
       <td align="center" style="border: none;">
         <a href="https://mongoosejs.com/" style="color: white;">
-          <img src="https://cdn.simpleicons.org/mongoose" width="50" height="50" alt="Mongoose"/>
+          <img src="https://cdn.simpleicons.org/mongoose/880000" width="50" height="50" alt="Mongoose"/>
         </a>
         <br>Mongoose
       </td>
       <td align="center" style="border: none;">
         <a href="https://www.sqlalchemy.org/" style="color: white;">
-          <img src="https://cdn.simpleicons.org/sqlalchemy" width="50" height="50" alt="SQLAlchemy"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="50" height="50" alt="SQLAlchemy"/>
         </a>
         <br>SQLAlchemy
       </td>
       <td align="center" style="border: none;">
         <a href="https://docs.djangoproject.com/en/stable/topics/db/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django ORM"/>
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django ORM"/>
         </a>
         <br>Django ORM
       </td>
       <td align="center" style="border: none;">
         <a href="https://laravel.com/docs/eloquent" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Eloquent"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" height="50" alt="Eloquent"/>
         </a>
         <br>Eloquent
       </td>
@@ -284,7 +305,7 @@ Computer Engineering student and Full-Stack Developer focused on building modern
       </td>
       <td align="center" style="border: none;">
         <a href="https://learn.microsoft.com/en-us/ef/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt="Entity Framework"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt="Entity Framework"/>
         </a>
         <br>Entity Framework
       </td>
@@ -442,13 +463,13 @@ Computer Engineering student and Full-Stack Developer focused on building modern
     <tr>
       <td align="center" style="border: none;">
         <a href="https://www.langchain.com/" style="color: white;">
-          <img src="https://cdn.simpleicons.org/langchain" width="50" height="50" alt="LangChain"/>
+          <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/langchain-icon.svg" width="50" height="50" alt="LangChain"/>
         </a>
         <br>LangChain
       </td>
       <td align="center" style="border: none;">
         <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" style="color: white;">
-          <img src="https://cdn.simpleicons.org/pinecone" width="50" height="50" alt="RAG"/>
+          <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/pinecone-icon.svg" width="50" height="50" alt="RAG"/>
         </a>
         <br>RAG
       </td>
@@ -466,7 +487,7 @@ Computer Engineering student and Full-Stack Developer focused on building modern
       </td>
       <td align="center" style="border: none;">
         <a href="https://www.llamaindex.ai/" style="color: white;">
-          <img src="https://cdn.simpleicons.org/llamaindex" width="50" height="50" alt="LlamaIndex"/>
+          <img src="https://github.com/run-llama.png" width="50" height="50" alt="LlamaIndex"/>
         </a>
         <br>LlamaIndex
       </td>
