@@ -5,11 +5,11 @@
 <h1 align="center">Hello &nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="48" alt="wave"> , I'm Tanvir Hasan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Now+student;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Engineer;Generative+AI;Computer+Engineering+Student;" alt="Typing SVG" />
 </p>
 
 <p align="center">
- Computer Engineer | Full-Stack Developer | Tech Enthusiast
+ Full-Stack Developer | AI/ML Engineer | Generative AI
 </p>
 
 <div align="center">
@@ -19,7 +19,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-Computer Engineering student and Full-Stack Developer focused on building modern web applications and exploring Artificial Intelligence / Machine Learning. I enjoy shipping clean, practical solutions across the stack and continuously learning tools that turn ideas into working products.
+Full-Stack Developer and AI/ML Engineer specializing in Generative AI and Large Language Models (LLMs). I design and build modern web applications end-to-end and integrate AI-powered features into real products. Currently pursuing Computer Engineering, with hands-on experience across the stack and practical GenAI/LLM tooling.
 </p>
 
 <br>
@@ -62,7 +62,7 @@ Computer Engineering student and Full-Stack Developer focused on building modern
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanvir-pr&theme=highcontrast" alt="Repos Per Language" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanvir-pr&theme=highcontrast" alt="Most Commit Language" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-pr&layout=donut&theme=highcontrast&hide_border=true&langs_count=8" alt="Languages I use" />
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvir-pr&theme=highcontrast" alt="Profile Details" />
