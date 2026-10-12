@@ -394,24 +394,40 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <br>
 
-<h2 align="center">3. Languages</h2>
-
-<h3 align="center">Python</h3>
+<h3 align="center">AI / ML Deployment</h3>
 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.python.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+        <a href="https://huggingface.co/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=huggingface" width="50" height="50" alt="Hugging Face"/>
         </a>
-        <br>Python
+        <br>Hugging Face
       </td>
       <td align="center" style="border: none;">
-        <a href="https://jupyter.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jupyter" width="50" height="50" alt="Jupyter"/>
+        <a href="https://www.gradio.app/" style="color: white;">
+          <img src="https://cdn.simpleicons.org/gradio" width="50" height="50" alt="Gradio"/>
         </a>
-        <br>Jupyter
+        <br>Gradio
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://streamlit.io/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=streamlit" width="50" height="50" alt="Streamlit"/>
+        </a>
+        <br>Streamlit
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.docker.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://aws.amazon.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/>
+        </a>
+        <br>AWS
       </td>
     </tr>
   </tbody>
@@ -419,22 +435,93 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <br>
 
-<h3 align="center">JavaScript</h3>
+<h3 align="center">Other / LLM tooling</h3>
 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
+        <a href="https://www.langchain.com/" style="color: white;">
+          <img src="https://cdn.simpleicons.org/langchain" width="50" height="50" alt="LangChain"/>
         </a>
-        <br>JavaScript
+        <br>LangChain
       </td>
       <td align="center" style="border: none;">
-        <a href="https://nodejs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
+        <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" style="color: white;">
+          <img src="https://cdn.simpleicons.org/pinecone" width="50" height="50" alt="RAG"/>
         </a>
-        <br>Node.js
+        <br>RAG
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://openai.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=openai" width="50" height="50" alt="OpenAI"/>
+        </a>
+        <br>OpenAI
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://huggingface.co/docs/transformers" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=huggingface" width="50" height="50" alt="Transformers"/>
+        </a>
+        <br>Transformers
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.llamaindex.ai/" style="color: white;">
+          <img src="https://cdn.simpleicons.org/llamaindex" width="50" height="50" alt="LlamaIndex"/>
+        </a>
+        <br>LlamaIndex
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h2 align="center">3. Tools</h2>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://git-scm.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+        </a>
+        <br>Git
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://github.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+        </a>
+        <br>GitHub
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://code.visualstudio.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/>
+        </a>
+        <br>VS Code
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.postman.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman"/>
+        </a>
+        <br>Postman
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.linux.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux"/>
+        </a>
+        <br>Linux
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.gnu.org/software/bash/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="Bash"/>
+        </a>
+        <br>Bash
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.figma.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
+        </a>
+        <br>Figma
       </td>
       <td align="center" style="border: none;">
         <a href="https://www.npmjs.com/" style="color: white;">
@@ -448,69 +535,53 @@ Computer Engineering student and Full-Stack Developer focused on building modern
 
 <br>
 
-<h3 align="center">C#</h3>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
+  <thead>
+    <tr>
+      <th align="left" style="border: none; padding: 12px;">Project</th>
+      <th align="left" style="border: none; padding: 12px;">Description</th>
+      <th align="center" style="border: none; padding: 12px;">Repo</th>
+      <th align="center" style="border: none; padding: 12px;">Live</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/>
-        </a>
-        <br>C#
+      <td style="border: none; padding: 12px;"><strong>marathon-project</strong></td>
+      <td style="border: none; padding: 12px;">Full-stack Marathon Management System for creating, browsing, and managing events with secure auth.</td>
+      <td align="center" style="border: none; padding: 12px;">
+        <a href="https://github.com/tanvir-pr/marathon-project" style="color: #00BFFF;">GitHub</a>
       </td>
-      <td align="center" style="border: none;">
-        <a href="https://dotnet.microsoft.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/>
-        </a>
-        <br>.NET
+      <td align="center" style="border: none; padding: 12px;">—</td>
+    </tr>
+    <tr>
+      <td style="border: none; padding: 12px;"><strong>marrymoney</strong></td>
+      <td style="border: none; padding: 12px;">MERN matrimony platform for browsing biodatas, connecting matches, and managing profiles.</td>
+      <td align="center" style="border: none; padding: 12px;">
+        <a href="https://github.com/tanvir-pr/marrymoney" style="color: #00BFFF;">GitHub</a>
+      </td>
+      <td align="center" style="border: none; padding: 12px;">
+        <a href="https://bistro-becea.web.app/" style="color: #00BFFF;">Live</a>
       </td>
     </tr>
-  </tbody>
-</table>
-
-<br>
-
-<h3 align="center">Java</h3>
-
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <a href="https://www.java.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-        </a>
-        <br>Java
+      <td style="border: none; padding: 12px;"><strong>Task_Management_To_Do</strong></td>
+      <td style="border: none; padding: 12px;">Drag-and-drop task manager with add/edit/delete and Firebase Authentication.</td>
+      <td align="center" style="border: none; padding: 12px;">
+        <a href="https://github.com/tanvir-pr/Task_Management_To_Do" style="color: #00BFFF;">GitHub</a>
       </td>
-      <td align="center" style="border: none;">
-        <a href="https://spring.io/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring"/>
-        </a>
-        <br>Spring
+      <td align="center" style="border: none; padding: 12px;">
+        <a href="https://to-do-management-51ecc.web.app/" style="color: #00BFFF;">Live</a>
       </td>
     </tr>
-  </tbody>
-</table>
-
-<br>
-
-<h3 align="center">PHP</h3>
-
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <a href="https://www.php.net/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/>
-        </a>
-        <br>PHP
+      <td style="border: none; padding: 12px;"><strong>Langchain-ChatBot</strong></td>
+      <td style="border: none; padding: 12px;">LangChain-powered chatbot exploring LLM tooling and conversational AI workflows.</td>
+      <td align="center" style="border: none; padding: 12px;">
+        <a href="https://github.com/tanvir-pr/Langchain-ChatBot" style="color: #00BFFF;">GitHub</a>
       </td>
-      <td align="center" style="border: none;">
-        <a href="https://laravel.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel"/>
-        </a>
-        <br>Laravel
-      </td>
+      <td align="center" style="border: none; padding: 12px;">—</td>
     </tr>
   </tbody>
 </table>
