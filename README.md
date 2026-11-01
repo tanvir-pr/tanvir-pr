@@ -558,54 +558,7 @@ Full-Stack Developer and AI/ML Engineer specializing in Generative AI and Large 
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
-  <thead>
-    <tr>
-      <th align="left" style="border: none; padding: 12px;">Project</th>
-      <th align="left" style="border: none; padding: 12px;">Description</th>
-      <th align="center" style="border: none; padding: 12px;">Repo</th>
-      <th align="center" style="border: none; padding: 12px;">Live</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: none; padding: 12px;"><strong>marathon-project</strong></td>
-      <td style="border: none; padding: 12px;">Full-stack Marathon Management System for creating, browsing, and managing events with secure auth.</td>
-      <td align="center" style="border: none; padding: 12px;">
-        <a href="https://github.com/tanvir-pr/marathon-project" style="color: #00BFFF;">GitHub</a>
-      </td>
-      <td align="center" style="border: none; padding: 12px;">—</td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 12px;"><strong>marrymoney</strong></td>
-      <td style="border: none; padding: 12px;">MERN matrimony platform for browsing biodatas, connecting matches, and managing profiles.</td>
-      <td align="center" style="border: none; padding: 12px;">
-        <a href="https://github.com/tanvir-pr/marrymoney" style="color: #00BFFF;">GitHub</a>
-      </td>
-      <td align="center" style="border: none; padding: 12px;">
-        <a href="https://bistro-becea.web.app/" style="color: #00BFFF;">Live</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 12px;"><strong>Task_Management_To_Do</strong></td>
-      <td style="border: none; padding: 12px;">Drag-and-drop task manager with add/edit/delete and Firebase Authentication.</td>
-      <td align="center" style="border: none; padding: 12px;">
-        <a href="https://github.com/tanvir-pr/Task_Management_To_Do" style="color: #00BFFF;">GitHub</a>
-      </td>
-      <td align="center" style="border: none; padding: 12px;">
-        <a href="https://to-do-management-51ecc.web.app/" style="color: #00BFFF;">Live</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 12px;"><strong>Langchain-ChatBot</strong></td>
-      <td style="border: none; padding: 12px;">LangChain-powered chatbot exploring LLM tooling and conversational AI workflows.</td>
-      <td align="center" style="border: none; padding: 12px;">
-        <a href="https://github.com/tanvir-pr/Langchain-ChatBot" style="color: #00BFFF;">GitHub</a>
-      </td>
-      <td align="center" style="border: none; padding: 12px;">—</td>
-    </tr>
-  </tbody>
-</table>
+
 
 </div>
 
