@@ -126,6 +126,12 @@ Full-Stack Developer and AI/ML Engineer specializing in Generative AI and Large 
         <a href="https://expressjs.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
         </a>
+        <a href="https://fastapi.tiangolo.com/" style="color: white;">
+           <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/>
+         </a>
+         <a href="https://dotnet.microsoft.com/" style="color: white;">
+                <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/>
+              </a>
       </td>
     </tr>
   </tbody>
@@ -133,91 +139,9 @@ Full-Stack Developer and AI/ML Engineer specializing in Generative AI and Large 
 
 <br>
 
-<h3 align="center">Framework</h3>
+<!-- <h3 align="center">Framework</h3> -->
 
-<table width="100%">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
-        <tbody>
-          <tr>
-            <td align="center" style="border: none; padding: 12px;">
-              <small>Python</small>
-              <br>
-              <strong>Backend</strong>
-              <br><br>
-              <a href="https://fastapi.tiangolo.com/" style="color: white;">
-                <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/>
-              </a>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
-        <tbody>
-          <tr>
-            <td align="center" style="border: none; padding: 12px;">
-              <small>PHP</small>
-              <br>
-              <strong>Backend</strong>
-              <br><br>
-              <a href="https://www.php.net/" style="color: white;">
-                <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/>
-              </a>
-              <a href="https://laravel.com/" style="color: white;">
-                <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel"/>
-              </a>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
-        <tbody>
-          <tr>
-            <td align="center" style="border: none; padding: 12px;">
-              <small>Java</small>
-              <br>
-              <strong>Backend</strong>
-              <br><br>
-              <a href="https://www.java.com/" style="color: white;">
-                <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-              </a>
-              <a href="https://spring.io/" style="color: white;">
-                <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring"/>
-              </a>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden; width: 100%;">
-        <tbody>
-          <tr>
-            <td align="center" style="border: none; padding: 12px;">
-              <small>C#</small>
-              <br>
-              <strong>Backend</strong>
-              <br><br>
-              <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="color: white;">
-                <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/>
-              </a>
-              <a href="https://dotnet.microsoft.com/" style="color: white;">
-                <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/>
-              </a>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-</table>
+
 
 <br>
 
@@ -285,24 +209,24 @@ Full-Stack Developer and AI/ML Engineer specializing in Generative AI and Large 
         </a>
         <br>SQLAlchemy
       </td>
-      <td align="center" style="border: none;">
+      <!-- <td align="center" style="border: none;">
         <a href="https://docs.djangoproject.com/en/stable/topics/db/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django ORM"/>
         </a>
         <br>Django ORM
-      </td>
-      <td align="center" style="border: none;">
+      </td> -->
+      <!-- <td align="center" style="border: none;">
         <a href="https://laravel.com/docs/eloquent" style="color: white;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" height="50" alt="Eloquent"/>
         </a>
         <br>Eloquent
-      </td>
-      <td align="center" style="border: none;">
+      </td> -->
+      <!-- <td align="center" style="border: none;">
         <a href="https://hibernate.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=hibernate" width="50" height="50" alt="Hibernate"/>
         </a>
         <br>Hibernate
-      </td>
+      </td> -->
       <td align="center" style="border: none;">
         <a href="https://learn.microsoft.com/en-us/ef/" style="color: white;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt="Entity Framework"/>
